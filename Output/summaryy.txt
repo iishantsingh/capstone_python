@@ -1,0 +1,5 @@
+Total campus consumption = 2470 kWh
+Highest consuming building = building C (970 kWh)
+Peak load time = 463 kWh
+Daily Trend = increasing 
+Weekly trend = decreasing or stable
