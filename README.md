@@ -10,14 +10,13 @@ It processes raw CSV files, cleans the data, generates summaries, and produces a
 
 project/
 │
-├── building_A_.csv
-├── building_B_.csv
-├── building_C_.csv
+├── building_A_2025.csv
+├── building_B_2025.csv
+├── building_C_2025.csv
 │
 ├── cleaned_energydata.csv
 ├── building_summary.csv
-├── summary.txt
-│
+├── summaryy.txt
 ├── dashboard.png
 ├── main.py
 
@@ -173,7 +172,7 @@ Understanding and visualizing energy trends
 
 # 🙌 Author
 
-Ishant Singh
+Ishant Singh 
 
 2501410067
 
