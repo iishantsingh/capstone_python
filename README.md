@@ -101,11 +101,11 @@ pip install pandas matplotlib
 
 ## 2️⃣ Place the building CSV files in the project folder
 
-building_A_.csv
+building_A_2025.csv
 
-building_B_.csv
+building_B_2025.csv
 
-building_C_.csv
+building_C_2025.csv
 
 
 ## 3️⃣ Run the Python script
@@ -136,7 +136,7 @@ building_summary.csv
 
 Total kWh consumed by each building during the week.
 
-summary.txt
+summaryy.txt
 
 Plain-text summary containing key insights.
 
